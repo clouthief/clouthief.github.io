@@ -1,2 +1,0 @@
-# clouthief.github.io
-practice
